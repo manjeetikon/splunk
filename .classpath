@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/app"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/munit"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="MULE_RUNTIME/org.mule.tooling.server.3.8.0.ee"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ant/ant/1.9.6/ant-1.9.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/cglib/cglib/3.2.2/cglib-3.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/cloudhub/cloudhub-client-api/1.0.0-ch-connector/cloudhub-client-api-1.0.0-ch-connector.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/cloudhub/cloudhub-rest-model/1.0.2/cloudhub-rest-model-1.0.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ftpserver/ftplet-api/1.0.6/ftplet-api-1.0.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ftpserver/ftpserver-core/1.0.6/ftpserver-core-1.0.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-xjc/2.1.13/jaxb-xjc-2.1.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jdom/jdom/1.0/jdom-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-client/1.9.1/jersey-client-1.9.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.9.1/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-json/1.9.1/jersey-json-1.9.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.10/junit-4.10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/mina/mina-core/2.0.4/mina-core-2.0.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mockito/mockito-all/1.8.2/mockito-all-1.8.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mule/tools/devkit/mule-devkit-shade/3.9.0/mule-devkit-shade-3.9.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/modules/mule-interceptor-module/3.8.0/mule-interceptor-module-3.8.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mule/modules/mule-module-cloudhub/2.0.2/mule-module-cloudhub-2.0.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/munit/mule-munit-support/3.8.0/mule-munit-support-3.8.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/munit/munit-assert/1.2.0/munit-assert-1.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/munit/munit-common/1.2.0/munit-common-1.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/munit/munit-mock/1.2.0/munit-mock-1.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/munit/munit-runner/1.2.0/munit-runner-1.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/munit/utils/munit-synchronize-module/1.0.0/munit-synchronize-module-1.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/objenesis/objenesis/1.0/objenesis-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/oauth/signpost/signpost-core/1.2.1.1/signpost-core-1.2.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/sshd/sshd-core/1.0.0/sshd-core-1.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/stax/stax-api/1.0.1/stax-api-1.0.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
