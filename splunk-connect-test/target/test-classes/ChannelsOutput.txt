@@ -1,0 +1,8 @@
+{channels=
+[{id=6613, viewers=[{id=599, first_name=Akiho, username=akiho, email=akiho.shibata@g.softbank.co.jp, last_name=Shibata}, 
+                                    {id=957, first_name=Yasuhiro, username=ynoda, email=yasuhiro.noda@g.softbank.co.jp, last_name=Noda}, 
+                                    {id=1011, first_name=Manuel, username=manu, email=mrolland@aldebaran-robotics.com, last_name=ROLLAND}, 
+                                    {id=1037, first_name=Charles, username=cpoisson, email=cpoisson@aldebaran-robotics.com, last_name=POISSON}, 
+                                                {id=1692, first_name=Alexandre, username=amoufarek, email=amoufarek@aldebaran-robotics.com, last_name=Moufarek},                     {id=2471, first_name=Diego, username=dfernandezbravo, email=dfernandezbravo@aldebaran.com, last_name=FERNANDEZ BRAVO}, 
+                                {id=6246, first_name=Seishi, username=SeishiMiki, email=seishi.miki@sbr.aldebaran.com, last_name=MIKI}],
+name=Basic Channel for SB, owner={id=1003, first_name=Benoît, username=blibeau, email=blibeau@aldebaran-robotics.com, last_name=LIBEAU}, uuid=12d4fa56-1274-48e9-a21b-dfa958789918, admins=[{id=2471, first_name=Diego, username=dfernandezbravo, email=dfernandezbravo@aldebaran.com, last_name=FERNANDEZ BRAVO}, {id=20286, first_name=Basic, username=b3, email=sbrgrp-basicapp-ope@g.softbank.co.jp, last_name=アプリ運用}]}]}
