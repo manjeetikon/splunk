@@ -26,16 +26,6 @@
 				<artifactId>mule-app-maven-plugin</artifactId>
 				<version>${mule.tools.version}</version>
 				<extensions>true</extensions>
-				 <dependencies>
-          <dependency>
-           <exclusions>
-        <exclusion>
-            <artifactId>tools</artifactId>
-            <groupId>com.sun</groupId>
-        </exclusion>
-    </exclusions>
-          </dependency>
-        </dependencies> 
 				<configuration>
 					<copyToAppsDirectory>true</copyToAppsDirectory>
 					<inclusions>
@@ -44,7 +34,6 @@
 							<artifactId>mule-module-cloudhub</artifactId>
 						</inclusion>
 					</inclusions>
-				
 				</configuration>
 			</plugin>
 			<plugin>
@@ -227,8 +216,6 @@
 			<artifactId>munit-synchronize-module</artifactId>
 			<version>1.0.0</version>
 		</dependency>
-		
-			
 
 	</dependencies>
 
