@@ -34,6 +34,13 @@
 							<artifactId>mule-module-cloudhub</artifactId>
 						</inclusion>
 					</inclusions>
+				<exclusions>
+            <exclusion>
+                <artifactId>tools</artifactId>
+                <groupId>com.sun</groupId>
+            </exclusion>
+        </exclusions>
+
 				</configuration>
 			</plugin>
 			<plugin>
