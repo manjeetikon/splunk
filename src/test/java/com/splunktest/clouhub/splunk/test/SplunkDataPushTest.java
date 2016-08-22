@@ -1,4 +1,4 @@
-package com.accenture.clouhub.splunk.test;
+package com.splunktest.clouhub.splunk.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
